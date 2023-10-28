@@ -118,6 +118,14 @@ button[disabled] {
   overflow: hidden;
 }
 
+#charForm {
+  display: inline-flex;
+}
+
+.charLabel {
+  margin-left: 2%;
+}
+
 @media (max-width: 690px) {
   .btn {
     font-size: 1rem;
