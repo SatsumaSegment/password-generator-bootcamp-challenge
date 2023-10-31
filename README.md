@@ -24,6 +24,6 @@ N/A
 
 ## Usage
 
-The Password Generator is hosted at this link:
+The Password Generator is hosted at this link: https://satsumasegment.github.io/password-generator-bootcamp-challenge/
 
 Follow the prompts and then click the "Generate Password" button to generate your password.
